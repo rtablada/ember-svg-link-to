@@ -1,10 +1,15 @@
 {
   "name": "ember-svg-link-to",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Links for Ember Apps With SVG and Canvas.",
   "directories": {
     "doc": "doc",
     "test": "tests"
+  },
+  "repository" :
+  {
+    "type" : "git",
+    "url" : "https://github.com/rtablada/ember-svg-link-to.git"
   },
   "scripts": {
     "build": "ember build",
@@ -15,7 +20,7 @@
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "Ryan Tablada",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.2.0",
