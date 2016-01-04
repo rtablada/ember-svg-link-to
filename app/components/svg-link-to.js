@@ -1,0 +1,1 @@
+export { default } from 'ember-svg-link-to/components/svg-link-to';

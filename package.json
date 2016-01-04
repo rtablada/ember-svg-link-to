@@ -1,7 +1,7 @@
 {
   "name": "ember-svg-link-to",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Links for Ember Apps With SVG and Canvas.",
   "directories": {
     "doc": "doc",
     "test": "tests"
